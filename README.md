@@ -1,1 +1,1 @@
-# Digital-calculator
+# Bash Mini Projects
