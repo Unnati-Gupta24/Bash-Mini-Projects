@@ -1,2 +1,2 @@
 # Bash Mini Projects
-This repository contains shell scripting written in bash
+This repository contains Mini projects made by using Bash.
