@@ -7,8 +7,11 @@ To run any of these scripts:<br/>
 
 ### Clone the repository to your local machine. 
 Navigate to the directory containing the script you want to execute.<br/>
-Make the script executable using ```chmod +x filename.sh.``` <br/>
-Run the script using ```./filename.sh.``` <br/>
+Make the script executable using <br/>
+> ```chmod +x filename.sh.```
+
+Run the script using 
+> ```./filename.sh.``` 
 
 ### Contributing 
 Contributions to this repository are welcome. Please follow these guidelines:<br/>
